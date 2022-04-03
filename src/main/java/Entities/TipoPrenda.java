@@ -1,0 +1,8 @@
+package Entities;
+
+public enum TipoPrenda {
+    SACO,
+    PANTALON,
+    CAMISA
+}
+
