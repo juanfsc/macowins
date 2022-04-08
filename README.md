@@ -12,3 +12,9 @@
 ## Diagrama de Clases
 
 ![Class diagran](./README/class_diagram.png)
+
+## Pruebas
+```
+mvn install
+mvn test
+```
